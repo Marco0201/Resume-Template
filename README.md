@@ -10,4 +10,4 @@ Html and Css.
 # Credit
 This resume-template was designed by [Joel Glovier](https://github.com/jglovier/resume-template).
 
-[click me](https://marco0201.github.io/Resume-Template/)
+[demo](https://marco0201.github.io/Resume-Template/)
